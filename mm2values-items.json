@@ -1,0 +1,737 @@
+[
+  {
+    "name": "Niks Scythe",
+    "value": 250000000,
+    "category": "Ancient"
+  },
+  {
+    "name": "Gingerscope",
+    "value": 17500,
+    "category": "Ancient"
+  },
+  {
+    "name": "Travelers Axe",
+    "value": 7850,
+    "category": "Ancient"
+  },
+  {
+    "name": "Travelers Gun",
+    "value": 4200,
+    "category": "Godly"
+  },
+  {
+    "name": "Evergun",
+    "value": 3650,
+    "category": "Godly"
+  },
+  {
+    "name": "Constellation",
+    "value": 3050,
+    "category": "Godly"
+  },
+  {
+    "name": "Evergreen",
+    "value": 2750,
+    "category": "Godly"
+  },
+  {
+    "name": "Vampires Gun",
+    "value": 1800,
+    "category": "Godly"
+  },
+  {
+    "name": "Turkey",
+    "value": 1800,
+    "category": "Godly"
+  },
+  {
+    "name": "Celestial",
+    "value": 1765,
+    "category": "Ancient"
+  },
+  {
+    "name": "Darkshot",
+    "value": 1050,
+    "category": "Godly"
+  },
+  {
+    "name": "Darksword",
+    "value": 1030,
+    "category": "Godly"
+  },
+  {
+    "name": "Blossom",
+    "value": 985,
+    "category": "Godly"
+  },
+  {
+    "name": "Alienbeam",
+    "value": 980,
+    "category": "Godly"
+  },
+  {
+    "name": "Sakura",
+    "value": 975,
+    "category": "Godly"
+  },
+  {
+    "name": "Bauble",
+    "value": 900,
+    "category": "Godly"
+  },
+  {
+    "name": "Vampires Axe",
+    "value": 900,
+    "category": "Ancient"
+  },
+  {
+    "name": "Inventory Calculator",
+    "value": 815,
+    "category": "Sets"
+  },
+  {
+    "name": "Raygun",
+    "value": 560,
+    "category": "Godly"
+  },
+  {
+    "name": "Sunrise",
+    "value": 520,
+    "category": "Godly"
+  },
+  {
+    "name": "Harvester",
+    "value": 400,
+    "category": "Ancient"
+  },
+  {
+    "name": "Snowcannon",
+    "value": 350,
+    "category": "Godly"
+  },
+  {
+    "name": "Rainbow Gun",
+    "value": 310,
+    "category": "Godly"
+  },
+  {
+    "name": "Soul",
+    "value": 305,
+    "category": "Godly"
+  },
+  {
+    "name": "Rainbow",
+    "value": 300,
+    "category": "Godly"
+  },
+  {
+    "name": "Heart Wand",
+    "value": 300,
+    "category": "Godly"
+  },
+  {
+    "name": "Icepiercer",
+    "value": 300,
+    "category": "Ancient"
+  },
+  {
+    "name": "Spirit",
+    "value": 295,
+    "category": "Godly"
+  },
+  {
+    "name": "Sunset",
+    "value": 270,
+    "category": "Godly"
+  },
+  {
+    "name": "Sweet",
+    "value": 265,
+    "category": "Godly"
+  },
+  {
+    "name": "Treat",
+    "value": 265,
+    "category": "Godly"
+  },
+  {
+    "name": "Flora",
+    "value": 260,
+    "category": "Godly"
+  },
+  {
+    "name": "Bloom",
+    "value": 250,
+    "category": "Godly"
+  },
+  {
+    "name": "Snow Dagger",
+    "value": 220,
+    "category": "Godly"
+  },
+  {
+    "name": "Bat",
+    "value": 200,
+    "category": "Godly"
+  },
+  {
+    "name": "Flowerwood Gun",
+    "value": 165,
+    "category": "Godly"
+  },
+  {
+    "name": "Flowerwood Knife",
+    "value": 160,
+    "category": "Godly"
+  },
+  {
+    "name": "Xenoknife",
+    "value": 150,
+    "category": "Godly"
+  },
+  {
+    "name": "Xenoshot",
+    "value": 150,
+    "category": "Godly"
+  },
+  {
+    "name": "Blizzard",
+    "value": 150,
+    "category": "Godly"
+  },
+  {
+    "name": "Snowstorm",
+    "value": 150,
+    "category": "Godly"
+  },
+  {
+    "name": "Ocean",
+    "value": 145,
+    "category": "Godly"
+  },
+  {
+    "name": "Candy",
+    "value": 140,
+    "category": "Godly"
+  },
+  {
+    "name": "Waves",
+    "value": 135,
+    "category": "Godly"
+  },
+  {
+    "name": "Heartblade",
+    "value": 120,
+    "category": "Godly"
+  },
+  {
+    "name": "WaterGun",
+    "value": 120,
+    "category": "Godly"
+  },
+  {
+    "name": "Icebreaker",
+    "value": 120,
+    "category": "Ancient"
+  },
+  {
+    "name": "Borealis",
+    "value": 105,
+    "category": "Godly"
+  },
+  {
+    "name": "Australis",
+    "value": 100,
+    "category": "Godly"
+  },
+  {
+    "name": "Sugar",
+    "value": 65,
+    "category": "Godly"
+  },
+  {
+    "name": "Luger",
+    "value": 65,
+    "category": "Godly"
+  },
+  {
+    "name": "Pearl",
+    "value": 65,
+    "category": "Godly"
+  },
+  {
+    "name": "Pearlshine",
+    "value": 65,
+    "category": "Godly"
+  },
+  {
+    "name": "Iceblaster",
+    "value": 65,
+    "category": "Godly"
+  },
+  {
+    "name": "Elderwood Scythe",
+    "value": 62,
+    "category": "Ancient"
+  },
+  {
+    "name": "Batwing",
+    "value": 62,
+    "category": "Ancient"
+  },
+  {
+    "name": "Candleflame",
+    "value": 60,
+    "category": "Godly"
+  },
+  {
+    "name": "Elderwood Revolver",
+    "value": 60,
+    "category": "Godly"
+  },
+  {
+    "name": "Makeshift",
+    "value": 60,
+    "category": "Godly"
+  },
+  {
+    "name": "Elderwood Blade",
+    "value": 60,
+    "category": "Godly"
+  },
+  {
+    "name": "Phantom",
+    "value": 60,
+    "category": "Godly"
+  },
+  {
+    "name": "Spectre",
+    "value": 60,
+    "category": "Godly"
+  },
+  {
+    "name": "Darkbringer",
+    "value": 60,
+    "category": "Godly"
+  },
+  {
+    "name": "SwirlyAxe",
+    "value": 60,
+    "category": "Ancient"
+  },
+  {
+    "name": "Red Luger",
+    "value": 55,
+    "category": "Godly"
+  },
+  {
+    "name": "Lightbringer",
+    "value": 50,
+    "category": "Godly"
+  },
+  {
+    "name": "Hallowscythe",
+    "value": 50,
+    "category": "Ancient"
+  },
+  {
+    "name": "Ornament",
+    "value": 45,
+    "category": "Godly"
+  },
+  {
+    "name": "Swirlygun",
+    "value": 40,
+    "category": "Godly"
+  },
+  {
+    "name": "Green Luger",
+    "value": 35,
+    "category": "Godly"
+  },
+  {
+    "name": "Laser",
+    "value": 28,
+    "category": "Godly"
+  },
+  {
+    "name": "Hallowgun",
+    "value": 28,
+    "category": "Godly"
+  },
+  {
+    "name": "Amerilaser",
+    "value": 27,
+    "category": "Godly"
+  },
+  {
+    "name": "Iceflake",
+    "value": 25,
+    "category": "Godly"
+  },
+  {
+    "name": "Icebeam",
+    "value": 25,
+    "category": "Godly"
+  },
+  {
+    "name": "Plasmabeam",
+    "value": 25,
+    "category": "Godly"
+  },
+  {
+    "name": "Plasmablade",
+    "value": 25,
+    "category": "Godly"
+  },
+  {
+    "name": "Shark",
+    "value": 23,
+    "category": "Godly"
+  },
+  {
+    "name": "Night Blade",
+    "value": 23,
+    "category": "Godly"
+  },
+  {
+    "name": "Swirlyblade",
+    "value": 22,
+    "category": "Godly"
+  },
+  {
+    "name": "Pixel",
+    "value": 22,
+    "category": "Godly"
+  },
+  {
+    "name": "Blaster",
+    "value": 22,
+    "category": "Godly"
+  },
+  {
+    "name": "Ginger Luger",
+    "value": 22,
+    "category": "Godly"
+  },
+  {
+    "name": "Luger Cane",
+    "value": 22,
+    "category": "Godly"
+  },
+  {
+    "name": "Log Chopper",
+    "value": 22,
+    "category": "Ancient"
+  },
+  {
+    "name": "Old Glory",
+    "value": 20,
+    "category": "Godly"
+  },
+  {
+    "name": "Slasher",
+    "value": 20,
+    "category": "Godly"
+  },
+  {
+    "name": "Eternal Cane",
+    "value": 20,
+    "category": "Godly"
+  },
+  {
+    "name": "Cookiecane",
+    "value": 20,
+    "category": "Godly"
+  },
+  {
+    "name": "Minty",
+    "value": 20,
+    "category": "Godly"
+  },
+  {
+    "name": "Gingermint",
+    "value": 20,
+    "category": "Godly"
+  },
+  {
+    "name": "Jinglegun",
+    "value": 20,
+    "category": "Godly"
+  },
+  {
+    "name": "Battle Axe II",
+    "value": 18,
+    "category": "Godly"
+  },
+  {
+    "name": "Virtual",
+    "value": 18,
+    "category": "Godly"
+  },
+  {
+    "name": "Gingerblade",
+    "value": 18,
+    "category": "Godly"
+  },
+  {
+    "name": "Gemstone",
+    "value": 18,
+    "category": "Godly"
+  },
+  {
+    "name": "Nebula",
+    "value": 15,
+    "category": "Godly"
+  },
+  {
+    "name": "Death Shard",
+    "value": 15,
+    "category": "Godly"
+  },
+  {
+    "name": "Vampires Edge",
+    "value": 15,
+    "category": "Godly"
+  },
+  {
+    "name": "Ice Wing",
+    "value": 15,
+    "category": "Ancient"
+  },
+  {
+    "name": "BattleAxe",
+    "value": 13,
+    "category": "Godly"
+  },
+  {
+    "name": "Chill",
+    "value": 12,
+    "category": "Godly"
+  },
+  {
+    "name": "Clockwork",
+    "value": 12,
+    "category": "Godly"
+  },
+  {
+    "name": "Spider",
+    "value": 12,
+    "category": "Godly"
+  },
+  {
+    "name": "Heat",
+    "value": 12,
+    "category": "Godly"
+  },
+  {
+    "name": "Tides",
+    "value": 12,
+    "category": "Godly"
+  },
+  {
+    "name": "Fang",
+    "value": 12,
+    "category": "Godly"
+  },
+  {
+    "name": "Eternal",
+    "value": 10,
+    "category": "Godly"
+  },
+  {
+    "name": "Xmas",
+    "value": 10,
+    "category": "Godly"
+  },
+  {
+    "name": "Frostsaber",
+    "value": 10,
+    "category": "Godly"
+  },
+  {
+    "name": "Eternal III",
+    "value": 10,
+    "category": "Godly"
+  },
+  {
+    "name": "Bioblade",
+    "value": 10,
+    "category": "Godly"
+  },
+  {
+    "name": "Eternal IV",
+    "value": 10,
+    "category": "Godly"
+  },
+  {
+    "name": "Ghost",
+    "value": 10,
+    "category": "Vintage"
+  },
+  {
+    "name": "Handsaw",
+    "value": 9,
+    "category": "Godly"
+  },
+  {
+    "name": "Hallows Edge",
+    "value": 9,
+    "category": "Godly"
+  },
+  {
+    "name": "Ice Shard",
+    "value": 9,
+    "category": "Godly"
+  },
+  {
+    "name": "Eternal II",
+    "value": 8,
+    "category": "Godly"
+  },
+  {
+    "name": "Boneblade",
+    "value": 8,
+    "category": "Godly"
+  },
+  {
+    "name": "Pumpking",
+    "value": 8,
+    "category": "Godly"
+  },
+  {
+    "name": "Saw",
+    "value": 8,
+    "category": "Godly"
+  },
+  {
+    "name": "Ghost Blade",
+    "value": 8,
+    "category": "Godly"
+  },
+  {
+    "name": "America",
+    "value": 8,
+    "category": "Vintage"
+  },
+  {
+    "name": "Blood",
+    "value": 8,
+    "category": "Vintage"
+  },
+  {
+    "name": "Flames",
+    "value": 7,
+    "category": "Godly"
+  },
+  {
+    "name": "Winters Edge",
+    "value": 7,
+    "category": "Godly"
+  },
+  {
+    "name": "Ice Dragon",
+    "value": 7,
+    "category": "Godly"
+  },
+  {
+    "name": "Hallows Blade",
+    "value": 7,
+    "category": "Godly"
+  },
+  {
+    "name": "Frostbite",
+    "value": 7,
+    "category": "Godly"
+  },
+  {
+    "name": "Shadow",
+    "value": 7,
+    "category": "Vintage"
+  },
+  {
+    "name": "Phaser",
+    "value": 6,
+    "category": "Vintage"
+  },
+  {
+    "name": "Prince",
+    "value": 6,
+    "category": "Vintage"
+  },
+  {
+    "name": "Eggblade",
+    "value": 5,
+    "category": "Godly"
+  },
+  {
+    "name": "Snowflake",
+    "value": 5,
+    "category": "Godly"
+  },
+  {
+    "name": "Prismatic",
+    "value": 5,
+    "category": "Godly"
+  },
+  {
+    "name": "Golden",
+    "value": 5,
+    "category": "Vintage"
+  },
+  {
+    "name": "Peppermint",
+    "value": 4,
+    "category": "Godly"
+  },
+  {
+    "name": "Cookieblade",
+    "value": 4,
+    "category": "Godly"
+  },
+  {
+    "name": "Cowboy",
+    "value": 4,
+    "category": "Vintage"
+  },
+  {
+    "name": "Red Seer",
+    "value": 3,
+    "category": "Godly"
+  },
+  {
+    "name": "Blue Seer",
+    "value": 3,
+    "category": "Godly"
+  },
+  {
+    "name": "Purple Seer",
+    "value": 3,
+    "category": "Godly"
+  },
+  {
+    "name": "Seer",
+    "value": 3,
+    "category": "Godly"
+  },
+  {
+    "name": "Splitter",
+    "value": 3,
+    "category": "Vintage"
+  },
+  {
+    "name": "Orange Seer",
+    "value": 2,
+    "category": "Godly"
+  },
+  {
+    "name": "Yellow Seer",
+    "value": 2,
+    "category": "Godly"
+  },
+  {
+    "name": "Close",
+    "value": 1,
+    "category": "Godly"
+  }
+]

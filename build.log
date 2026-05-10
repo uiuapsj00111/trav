@@ -1,0 +1,38 @@
+﻿bun : $ next build
+At line:1 char:1
++ bun run build 2>&1 | Out-File build.log -Encoding utf8; echo Done
++ ~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: ($ next build:String) [], RemoteEx 
+   ception
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+   Ôû▓ Next.js 15.5.7
+   - Environments: .env.local
+
+   Creating an optimized production build ...
+Failed to compile.
+
+./src/components/sections/UpgraderGame.tsx
+  [31mx[0m Expression expected
+      ,-[[36;1;4mC:\Users\serge\orchids-projects\trav.bet\src\components\secti
+ons\UpgraderGame.tsx[0m:1730:1]
+ [2m1727[0m |           }
+ [2m1728[0m |             "mm2dice_balance_lock",
+ [2m1729[0m |             (Date.now() + 10000).toString(),
+ [2m1730[0m |           ); // Reduced from 15s
+      : [35;1m          ^[0m
+ [2m1731[0m |         }
+ [2m1732[0m |       }
+ [2m1733[0m |     };
+      `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./src/components/sections/UpgraderGame.tsx
+./src/app/upgrader/page.tsx
+
+
+> Build failed because of webpack errors
+error: script "build" exited with code 1
